@@ -13,4 +13,23 @@ Two ideas so far:
       -Alternate option would be taking a data set of environments with the objects in the environment and seeing how well the A.I. performs at the identification of different objects in the picture
       -Another option could be naming things it recognizes in the image from its training phases
 
-Chapters 22 and 24 in the book describe Natural Language processing and Computer vision, respectively
+Chapters 22 and 24 in the book describe Natural Language processing and Computer vision, respectively  
+
+3. Music Sound Sampling
+    - Decompile the song so that it can be modififed
+    - Looking at different artists and their samples to see how they compare
+
+4. Gathering wifi signal data to share position with friends
+    - see where you are in respect all those points
+    - A service that tells you where your friends are based on wifi data
+    - uses a neural network to find the position of a person from wifi data
+    - Goal: 3D map of your position or router positions
+    - optimal signal locations
+    
+5 Genomic Sequence analysis with machine learning
+
+6. Game simulation with multiple agents
+
+    
+    
+
