@@ -5,3 +5,5 @@ https://archive.ics.uci.edu/ml/datasets.html?format=&task=cla&att=&area=&numAtt=
 
 This explains how real-time twitter data can be gathered:
 https://dev.twitter.com/streaming/overview
+
+[Media Segmentation using Self-Similarity Decomposition](http://www.fxpal.com/publications/FXPAL-PR-03-186.pdf)
